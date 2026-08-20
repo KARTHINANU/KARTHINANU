@@ -77,64 +77,6 @@ I enjoy transforming ideas into practical applications — from **ML-powered fra
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 RFID-Based Smart Toll Fraud Detection System
-
-An IoT-enabled toll management system combining **Arduino, RFID and Machine Learning** to identify fraudulent toll transactions.
-
-**Tech Stack:** Arduino • RFID • Python • Scikit-learn • Logistic Regression • SQLite
-
-* Implemented RFID-based vehicle identification
-* Developed a Logistic Regression fraud detection model
-* Integrated hardware with a Python backend
-* Designed real-time fraud detection workflow
-* Achieved **96% detection accuracy**
-
----
-
-### ✈️ Tours & Travelling
-
-A full-stack travel booking platform designed to manage users, bookings, payments and reviews.
-
-**Tech Stack:** React • Node.js • Express.js • MongoDB • REST APIs
-
-* Implemented secure authentication
-* Developed RESTful APIs
-* Added CRUD functionality
-* Managed users, bookings, payments and reviews
-* Built a responsive user interface
-
----
-
-### ☁️ Serverless Passenger Data Management System
-
-A scalable serverless application for passenger data management using AWS services.
-
-**Tech Stack:** AWS Lambda • API Gateway • DynamoDB • S3 • CloudFront
-
-* Developed serverless REST APIs
-* Used DynamoDB for scalable data storage
-* Integrated AWS Lambda for backend processing
-* Used S3 and CloudFront for cloud-based delivery
-* Designed the application for high availability
-
----
-
-### 📈 Adaptive Stock Movement Predictor
-
-A distributed stock prediction system combining historical market data with financial news sentiment.
-
-**Tech Stack:** Apache Spark • Hadoop • Spark NLP • Scala
-
-* Processed large-scale stock datasets
-* Applied sentiment analysis to financial news
-* Combined historical data with sentiment information
-* Used Apache Spark for distributed processing
-* Built a data-driven stock movement prediction pipeline
-
----
-
 ## 🎓 Education
 
 ### 🏫 Vellore Institute of Technology
@@ -167,46 +109,7 @@ A distributed stock prediction system combining historical market data with fina
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KARTHINANU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHINANU&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTHINANU&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Problem Solving
-
-I continuously practice **Data Structures & Algorithms** to improve my problem-solving and coding skills.
-
-**Areas I Practice:**
-
-* Arrays & Strings
-* Hashing
-* Linked Lists
-* Stacks & Queues
-* Trees & Graphs
-* Recursion & Backtracking
-* Dynamic Programming
-* Sorting & Searching
-* Greedy Algorithms
-
----
-
-## 📜 Certifications & Learning
-
-I'm continuously expanding my knowledge through certifications and hands-on learning in areas including:
-
-* 🤖 Generative AI
-* ☁️ Cloud Computing
-* 📊 Data Science & Analytics
-* 🗄️ SQL & Databases
-* 💻 Software Development
-* 🧠 Machine Learning
-* 🔐 Cyber Security
-* 📈 Data Visualization
-
 ---
 
 ## 🌐 Languages
