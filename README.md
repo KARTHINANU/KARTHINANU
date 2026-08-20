@@ -3,11 +3,15 @@
 ### 🎓 Final-Year Information Technology Student | AI/ML Enthusiast | Full-Stack Developer
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Final-Year+IT+Student+at+VIT;Full-Stack+Developer;AI%2FML+Enthusiast;Cloud+%26+IoT+Developer;Problem+Solver+%7C+DSA" />
+</p>
+
+<p align="center">
   <a href="https://karthikeya-cheedella.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20WEBSITE-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/KARTHINANU">
-    <img src="https://img.shields.io/badge/GITHUB-KARTHINANU-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-KARTHINANU-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -101,11 +105,17 @@ I enjoy transforming ideas into practical applications — from **ML-powered fra
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KARTHINANU&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KARTHINANU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHINANU&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARTHINANU&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🌐 Languages
